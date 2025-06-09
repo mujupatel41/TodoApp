@@ -31,6 +31,20 @@ A simple and clean To-Do List web application built with **React JS**, **Tailwin
 
 ## 📂 Folder Structure
 
+TodoApp/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── TodoList.jsx
+│   │   └── TodoItem.jsx
+│   ├── App.jsx
+│   ├── index.js
+│   └── styles.css
+├── .gitignore
+├── package.json
+└── README.md
+
 
 ---
 
